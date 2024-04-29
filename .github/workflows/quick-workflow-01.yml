@@ -1,4 +1,4 @@
-name: quick workflow
+name: quick workflow 10
 
 on: [workflow_dispatch, pull_request]
 
